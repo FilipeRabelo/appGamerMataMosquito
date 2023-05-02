@@ -47,3 +47,15 @@ body {
     font-size: 20px;
     font-weight: bold;
 }
+
+#btn {
+    font-weight: bold;
+}
+
+#nivel {
+    font-weight: bold;
+}
+
+option {
+    font-weight: bold;
+}
