@@ -1,33 +1,33 @@
-body{
+body {
     background-image: url("imagens/bg.jpg");
     background-repeat: no-repeat;
     background-size: 100%;
 }
 
-.mosquito1{
-     height: 40px;
-     width:  40px;
- }
-
-.mosquito2{
-    height: 70px;
-    width:  70px;
+.mosquito1 {
+    height: 50px;
+    width: 50px;
 }
 
-.mosquito3{
-    height: 90px;
-    width:  90px;
+.mosquito2 {
+    height: 80px;
+    width: 80px;
 }
 
-.ladoA{
+.mosquito3 {
+    height: 100px;
+    width: 100px;
+}
+
+.ladoA {
     transform: scaleX(1);
 }
 
-.ladoB{
+.ladoB {
     transform: scaleX(-1);
 }
 
-.painel{
+.painel {
     position: absolute;
     width: 190px;
     padding: 10px;
@@ -38,11 +38,11 @@ body{
     opacity: 0.7;
 }
 
-.vidas{
+.vidas {
     float: left;
 }
 
-.cronometro{
+.cronometro {
     float: left;
     font-size: 20px;
     font-weight: bold;
